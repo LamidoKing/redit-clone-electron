@@ -1,0 +1,19 @@
+body {
+    padding: 24px
+  }
+
+  .list-group-item {
+    cursor: pointer
+  }
+
+  .list-group-item:hover {
+    background-color: #eee
+  }
+
+  .thumbnail {
+    width: 60x;
+    width: 60px;
+    border-radius: 30px;
+    margin-right: 16px
+  }
+
