@@ -16,7 +16,7 @@
   ],
   "author": "GitHub",
   "devDependencies": {
-    "electron": "^3.0.0"
+    "electron": "^18.3.7"
   },
   "dependencies": {
     "axios": "^0.18.0",
